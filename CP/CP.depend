@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1659370994 source:c:\users\no1\documents\cp\main.cpp
+	<bits/stdc++.h>
+	<ext/pb_ds/assoc_container.hpp>
+
